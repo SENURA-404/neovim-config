@@ -14,3 +14,5 @@ Clone it to your config folder:
 ```bash
 git clone https://github.com/SENURA-404/neovim-config ~/.config/nvim
 
+![Neovim Screenshot](assets/nvim-1.png)
+![Neovim Screenshot](assets/nvim-4.png)
